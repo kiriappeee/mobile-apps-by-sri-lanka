@@ -38,6 +38,7 @@
 ##S
 
   * [SETT Browser (Bhasha)](http://www.bhasha.lk/products/settbrowser) -> [Android](https://play.google.com/store/apps/details?id=lk.bhasha.set)
+  * [Sinhala for iOS (Xinterium)](http://www.xinterium.com/) -> [iOS](https://itunes.apple.com/app/id954163661)
 
 ##Y
 
