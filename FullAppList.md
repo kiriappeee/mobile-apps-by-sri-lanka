@@ -26,6 +26,12 @@
   * [MobiTV (Bhasha)](http://www.bhasha.lk/products/mobitv) -> [Android](https://play.google.com/store/apps/details?id=lk.bhasha.mobitv) | [iOS](https://itunes.apple.com/lk/app/mobitv-sri-lanka-tv-player/id674987555?mt=8) | [Windows Phone](https://www.windowsphone.com/en-us/store/app/mobitv-lk/44d02005-bf8d-4065-b8aa-4857b78a8f3d)
   * [Mogo Reader](http://mogosrilanka.com/) -> [Android](https://play.google.com/store/apps/details?id=mogosolutions.mogoreader)
 
+##N
+
+  * Net Assist (nfuse) | [Android](https://play.google.com/store/apps/details?id=lk.sudara.slnetworkhelper)
+  * Net Assist Widget (nfuse) | [Android](https://play.google.com/store/apps/details?id=lk.nfuse.netassistwidget)
+  * Tap Switch (nfuse) | [Android](https://play.google.com/store/apps/details?id=lk.nfuse.tapswitch)
+
 ##P
 
   * [PickMe](http://pickme.lk) -> [Android](https://play.google.com/store/apps/details?id=com.pickme.passenger) | [iOS](https://itunes.apple.com/us/app/pickme-sri-lanka/id1000163961)
