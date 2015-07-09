@@ -14,7 +14,7 @@
 
 ##H
 
-  * [Helakuru (Bhasha)](http://www.bhasha.lk/products/helakuru) -> [Android](https://play.google.com/store/apps/details?id=lk.bhasha.helakuru)
+  * [Helakuru (Bhasha)](http://www.bhasha.lk/products/helakuru) -> [Android](https://play.google.com/store/apps/details?id=lk.bhasha.helakuru) | [iOS](https://itunes.apple.com/us/app/id1012390370)
   * [Hasun (Bhasha)](http://www.bhasha.lk/products/hasun) -> [Android](https://play.google.com/store/apps/details?id=lk.bhasha.hasun)
 
 ##M
